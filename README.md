@@ -95,21 +95,15 @@ identity:
 
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   🧠  AI / Decision Support Layer                            ║
-║   ─────────────────────────────────────────────────────────  ║
-║   📊  Dashboard · Monitoring · Alerts                        ║
-║   ─────────────────────────────────────────────────────────  ║
-║   🐍  Python Backend · APIs · Data Pipelines                 ║
-║   ─────────────────────────────────────────────────────────  ║
-║   📡  MQTT · RS485 · LoRaWAN · Gateways                      ║
-║   ─────────────────────────────────────────────────────────  ║
-║   ⚙️   Firmware · Sensors · Embedded Devices                  ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c8f0,100:00d9ff&height=75&text=%F0%9F%A7%A0%20%20AI%20%2F%20Decision%20Support%20Layer&fontSize=24&fontColor=0a0f1e&fontAlign=50&fontAlignY=55" width="92%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d4f8c,100:1565c0&height=75&text=%F0%9F%93%8A%20%20Dashboard%20%C2%B7%20Monitoring%20%C2%B7%20Alerts&fontSize=24&fontColor=e0f7fa&fontAlign=50&fontAlignY=55" width="92%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b5e6e,100:0d7377&height=75&text=%F0%9F%90%8D%20%20Python%20Backend%20%C2%B7%20APIs%20%C2%B7%20Data%20Pipelines&fontSize=24&fontColor=e0f2f1&fontAlign=50&fontAlignY=55" width="92%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2c5b,100:1e3a7a&height=75&text=%F0%9F%93%A1%20%20MQTT%20%C2%B7%20RS485%20%C2%B7%20LoRaWAN%20%C2%B7%20Gateways&fontSize=24&fontColor=b3d4ff&fontAlign=50&fontAlignY=55" width="92%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001120,100:001f3f&height=75&text=%E2%9A%99%EF%B8%8F%20%20Firmware%20%C2%B7%20Sensors%20%C2%B7%20Embedded%20Devices&fontSize=24&fontColor=64b5f6&fontAlign=50&fontAlignY=55" width="92%"/>
 
 </div>
 
@@ -150,13 +144,13 @@ Sensors → Firmware → Communication → Backend → Dashboard → AI-assisted
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=parvaz-jamei&show_icons=true&theme=transparent&title_color=00d9ff&icon_color=ff8c00&text_color=64b5f6&border_color=1e3a5f&bg_color=0a0f1e&hide_border=false&count_private=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=parvaz-jamei&theme=github_dark" width="46%"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvaz-jamei&layout=compact&theme=transparent&title_color=00d9ff&text_color=64b5f6&border_color=1e3a5f&bg_color=0a0f1e&langs_count=6"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parvaz-jamei&theme=github_dark" width="46%"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=parvaz-jamei&theme=transparent&ring=00d9ff&fire=ff8c00&currStreakLabel=00d9ff&sideLabels=64b5f6&dates=64b5f6&border=1e3a5f&background=0a0f1e" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=parvaz-jamei&theme=transparent&ring=00d9ff&fire=ff8c00&currStreakLabel=00d9ff&sideLabels=64b5f6&dates=64b5f6&border=1e3a5f&background=0a0f1e" width="60%"/>
 
 </div>
 
@@ -167,16 +161,6 @@ Sensors → Firmware → Communication → Backend → Dashboard → AI-assisted
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=parvaz-jamei&theme=darkhub&column=6&margin-w=8&margin-h=8&no-bg=true" width="90%"/>
-
-</div>
-
-<br/>
-
-## 📈 Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=parvaz-jamei&bg_color=0a0f1e&color=00d9ff&line=ff8c00&point=00d9ff&area=true&area_color=001f3f&hide_border=false&border_color=1e3a5f&title_color=64b5f6" width="95%"/>
 
 </div>
 
