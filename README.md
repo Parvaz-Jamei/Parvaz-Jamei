@@ -1,28 +1,22 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0d2137,100:001f3f&height=200&section=header&text=Parvaz%20Jamei&fontSize=52&fontColor=00d9ff&fontAlignY=38&desc=Embedded%20Software%20Engineer%20%C2%B7%20Industrial%20IoT%20%C2%B7%20Edge%20AI&descAlignY=58&descSize=18&descFontColor=64b5f6&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0d2137,100:001f3f&height=220&section=header&text=Parvaz%20Jamei&fontSize=56&fontColor=00d9ff&fontAlignY=38&desc=Embedded%20Software%20Engineer%20%C2%B7%20Industrial%20IoT%20%C2%B7%20Edge%20AI&descAlignY=58&descSize=19&descFontColor=64b5f6&animation=fadeIn&stroke=00d9ff&strokeWidth=1" width="100%"/>
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=760&height=60&lines=%F0%9F%A7%A0%E2%9A%99%EF%B8%8F+Embedded+IoT+%C2%B7+Edge+AI+%C2%B7+Device-to-Cloud+Systems" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=760&height=50&lines=%F0%9F%A7%A0%E2%9A%99%EF%B8%8F+Embedded+IoT+%C2%B7+Edge+AI+%C2%B7+Device-to-Cloud+Systems" alt="Typing SVG" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Parvaz%20Jamei-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parvaz-jamei)
-&nbsp;
+&nbsp;&nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=parvaz-jamei&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12&height=2" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001f3f,100:0d2137&height=3&section=header" width="100%"/>
+<br/>
 
 ## ◈ Engineering Identity
-
-<table>
-<tr>
-<td valign="top" width="60%">
 
 I build **Embedded, Industrial IoT, and Edge AI systems** that connect real-world devices to reliable software platforms.
 
@@ -30,8 +24,7 @@ My work covers the full engineering path: **firmware, sensor integration, teleme
 
 I focus on practical systems that are measurable, maintainable, connected, and useful beyond the prototype stage.
 
-</td>
-<td valign="top" width="40%">
+<div align="center">
 
 ```yaml
 identity:
@@ -42,13 +35,11 @@ identity:
   stack    : C/C++ · Python · MQTT · ARM/ESP32
 ```
 
-</td>
-</tr>
-</table>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001f3f,100:0d2137&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12&height=2" width="100%"/>
 
----
+<br/>
 
 ## ⚙️ Core Engineering Areas
 
@@ -65,11 +56,17 @@ identity:
 
 </div>
 
----
+<br/>
 
 ## 🛠️ Technology Stack
 
 <div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,linux,docker,git&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,fastapi,raspberrypi,arduino,bash&theme=dark" />
+
+<br/><br/>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -90,7 +87,9 @@ identity:
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12&height=2" width="100%"/>
+
+<br/>
 
 ## 🧩 System Layers I Work With
 
@@ -114,7 +113,7 @@ identity:
 
 </div>
 
----
+<br/>
 
 ## ◬ What I Build
 
@@ -129,7 +128,9 @@ Typical work areas include:
 - 🧠 Edge AI and computer-vision-based decision support
 - 🏭 Industrial and infrastructure-focused IoT systems
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12&height=2" width="100%"/>
+
+<br/>
 
 ## ◈ Selected Engineering Work
 
@@ -143,7 +144,7 @@ This work represents a broader engineering pattern I focus on:
 Sensors → Firmware → Communication → Backend → Dashboard → AI-assisted decisions
 ```
 
----
+<br/>
 
 ## 📊 GitHub Stats
 
@@ -153,25 +154,35 @@ Sensors → Firmware → Communication → Backend → Dashboard → AI-assisted
 &nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvaz-jamei&layout=compact&theme=transparent&title_color=00d9ff&text_color=64b5f6&border_color=1e3a5f&bg_color=0a0f1e&langs_count=6"/>
 
-</div>
-
-<div align="center">
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=parvaz-jamei&theme=transparent&ring=00d9ff&fire=ff8c00&currStreakLabel=00d9ff&sideLabels=64b5f6&dates=64b5f6&border=1e3a5f&background=0a0f1e" width="60%"/>
 
 </div>
 
----
+<br/>
 
 ## 🏆 Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=parvaz-jamei&theme=darkhub&column=6&margin-w=8&margin-h=8&no-bg=true&no-frame=false" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=parvaz-jamei&theme=darkhub&column=6&margin-w=8&margin-h=8&no-bg=true" width="90%"/>
 
 </div>
 
----
+<br/>
+
+## 📈 Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=parvaz-jamei&bg_color=0a0f1e&color=00d9ff&line=ff8c00&point=00d9ff&area=true&area_color=001f3f&hide_border=false&border_color=1e3a5f&title_color=64b5f6" width="95%"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12&height=2" width="100%"/>
+
+<br/>
 
 ## 🌍 Current Direction
 
@@ -184,7 +195,7 @@ I am focused on building reliable, field-oriented systems in:
 - 📊 Monitoring dashboards and device-management platforms
 - 🏭 End-to-end smart infrastructure and industrial products
 
----
+<br/>
 
 ## 🔗 Connect
 
@@ -194,9 +205,12 @@ I am focused on building reliable, field-oriented systems in:
 
 <br/><br/>
 
-🌐 Portfolio: **https://proio.ir**  
+🌐 Portfolio: **https://proio.ir**
+&nbsp;&nbsp;·&nbsp;&nbsp;
 📩 Email: **parvaz.nic@gmail.com**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,50:0d2137,100:0a0f1e&height=120&section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,50:0d2137,100:0a0f1e&height=130&section=footer" width="100%"/>
