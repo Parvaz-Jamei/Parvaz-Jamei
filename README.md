@@ -95,23 +95,15 @@ identity:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c8f0,100:00d9ff&height=52&text=%F0%9F%A7%A0%20%20AI%20%2F%20Decision%20Support%20Layer&fontSize=17&fontColor=0a0f1e&fontAlignY=65&section=header" width="78%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c8f0,100:00d9ff&height=75&text=%F0%9F%A7%A0%20%20AI%20%2F%20Decision%20Support%20Layer&fontSize=24&fontColor=0a0f1e&fontAlign=50&fontAlignY=55" width="92%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1e,100:0a0f1e&height=10&text=%E2%96%BC&fontSize=14&fontColor=00d9ff&fontAlignY=80" width="78%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d4f8c,100:1565c0&height=75&text=%F0%9F%93%8A%20%20Dashboard%20%C2%B7%20Monitoring%20%C2%B7%20Alerts&fontSize=24&fontColor=e0f7fa&fontAlign=50&fontAlignY=55" width="92%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d4f8c,100:1565c0&height=52&text=%F0%9F%93%8A%20%20Dashboard%20%C2%B7%20Monitoring%20%C2%B7%20Alerts&fontSize=17&fontColor=e0f7fa&fontAlignY=65" width="78%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b5e6e,100:0d7377&height=75&text=%F0%9F%90%8D%20%20Python%20Backend%20%C2%B7%20APIs%20%C2%B7%20Data%20Pipelines&fontSize=24&fontColor=e0f2f1&fontAlign=50&fontAlignY=55" width="92%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1e,100:0a0f1e&height=10&text=%E2%96%BC&fontSize=14&fontColor=00d9ff&fontAlignY=80" width="78%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2c5b,100:1e3a7a&height=75&text=%F0%9F%93%A1%20%20MQTT%20%C2%B7%20RS485%20%C2%B7%20LoRaWAN%20%C2%B7%20Gateways&fontSize=24&fontColor=b3d4ff&fontAlign=50&fontAlignY=55" width="92%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b5e6e,100:0d7377&height=52&text=%F0%9F%90%8D%20%20Python%20Backend%20%C2%B7%20APIs%20%C2%B7%20Data%20Pipelines&fontSize=17&fontColor=e0f2f1&fontAlignY=65" width="78%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1e,100:0a0f1e&height=10&text=%E2%96%BC&fontSize=14&fontColor=00d9ff&fontAlignY=80" width="78%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2c5b,100:1e3a7a&height=52&text=%F0%9F%93%A1%20%20MQTT%20%C2%B7%20RS485%20%C2%B7%20LoRaWAN%20%C2%B7%20Gateways&fontSize=17&fontColor=b3d4ff&fontAlignY=65" width="78%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1e,100:0a0f1e&height=10&text=%E2%96%BC&fontSize=14&fontColor=00d9ff&fontAlignY=80" width="78%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001120,100:001f3f&height=52&text=%E2%9A%99%EF%B8%8F%20%20Firmware%20%C2%B7%20Sensors%20%C2%B7%20Embedded%20Devices&fontSize=17&fontColor=64b5f6&fontAlignY=65" width="78%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001120,100:001f3f&height=75&text=%E2%9A%99%EF%B8%8F%20%20Firmware%20%C2%B7%20Sensors%20%C2%B7%20Embedded%20Devices&fontSize=24&fontColor=64b5f6&fontAlign=50&fontAlignY=55" width="92%"/>
 
 </div>
 
