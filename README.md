@@ -203,7 +203,6 @@ I am focused on building reliable, field-oriented systems in:
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=001f3f)](https://www.linkedin.com/in/parvaz-jamei)
 
-
 <br/><br/>
 
 🌐 Portfolio: **https://proio.ir**
